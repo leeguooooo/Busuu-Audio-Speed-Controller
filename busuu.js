@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Busuu Audio Speed Controller Pro+
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      1.0
 // @description  Triple speed control with persistent settings
 // @author       郭立 leo
 // @match        https://www.busuu.com/*
@@ -10,8 +10,6 @@
 // @license      MIT
 // @homepage     https://github.com/leeguooooo/Busuu-Audio-Speed-Controller
 // @supportURL   https://github.com/leeguooooo/Busuu-Audio-Speed-Controller/issues
-// @updateURL    https://greasyfork.org/scripts/482599/code/busuu-audio-speed-controller-pro-plus.user.js
-// @downloadURL  https://greasyfork.org/scripts/482599/code/busuu-audio-speed-controller-pro-plus.user.js
 // ==/UserScript==
 
 (function() {
