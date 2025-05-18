@@ -8,10 +8,10 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @license      MIT
-// @homepage     https://github.com/YOUR-USERNAME/busuu-speed-controller
-// @supportURL   https://github.com/YOUR-USERNAME/busuu-speed-controller/issues
-// @updateURL    https://greasyfork.org/scripts/YOUR-SCRIPT-ID/code/busuu-audio-speed-controller-pro-plus.user.js
-// @downloadURL  https://greasyfork.org/scripts/YOUR-SCRIPT-ID/code/busuu-audio-speed-controller-pro-plus.user.js
+// @homepage     https://github.com/leeguooooo/Busuu-Audio-Speed-Controller
+// @supportURL   https://github.com/leeguooooo/Busuu-Audio-Speed-Controller/issues
+// @updateURL    https://greasyfork.org/scripts/482599/code/busuu-audio-speed-controller-pro-plus.user.js
+// @downloadURL  https://greasyfork.org/scripts/482599/code/busuu-audio-speed-controller-pro-plus.user.js
 // ==/UserScript==
 
 (function() {
